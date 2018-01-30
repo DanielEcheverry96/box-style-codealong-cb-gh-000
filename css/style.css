@@ -178,6 +178,10 @@ navbar nav a.selected{
   color: white;
 }
 
+navbar nav a:hover{
+  color: white;
+}
+
 /*////////// LOGO //////////*/
 
 
